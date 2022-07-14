@@ -1,0 +1,26 @@
+.wrapper-quantity{
+
+    display:flex;
+    width:100px;
+    justify-content: space-between;
+    background-color: antiquewhite;
+    font-weight: bold;
+}
+
+.button-plus-active{
+    color:green;
+    font-weight:bold;
+    font-size: 1.2em;
+}
+.button-plus-desactive{
+    color:red;
+}
+
+.button-minus-active{
+    color:green;
+    font-weight:bold;
+    font-size: 1.2em;
+}
+.button-minus-desactive{
+    color:red;
+}
